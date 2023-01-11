@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![Pytness's GitHub stats](https://github-readme-stats.vercel.app/api?username=pytness&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Pytness's GitHub stats](https://github-readme-stats.vercel.app/api?username=pytness&show_icons=true&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Pytness's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pytness&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Pytness's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pytness&count_private=true&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
