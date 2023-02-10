@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 [![Pytness's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pytness&count_private=true&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=hdfsyu)
+![Profile View Counter](https://komarev.com/ghpvc/?username=pytness)
