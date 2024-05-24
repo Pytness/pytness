@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 ![](https://hit.yhype.me/github/profile?user_id=23234809)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=pytness)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@pytness)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@pytness&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
