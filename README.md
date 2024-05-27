@@ -1,3 +1,6 @@
+[![wakatime](https://wakatime.com/badge/user/e74a92a1-8c7a-40bf-abc8-2a06e1ff6757.svg)](https://wakatime.com/@e74a92a1-8c7a-40bf-abc8-2a06e1ff6757)
+![Profile View Counter](https://komarev.com/ghpvc/?username=pytness)
+
 
 
 
